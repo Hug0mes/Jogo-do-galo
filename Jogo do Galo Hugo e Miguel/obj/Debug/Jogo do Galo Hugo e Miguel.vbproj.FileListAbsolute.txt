@@ -1,0 +1,13 @@
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\bin\Debug\Jogo do Galo Hugo e Miguel.exe.config
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\bin\Debug\Jogo do Galo Hugo e Miguel.exe
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\bin\Debug\Jogo do Galo Hugo e Miguel.pdb
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\bin\Debug\Jogo do Galo Hugo e Miguel.xml
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo_do_Galo_Hugo_e_Miguel.Form1.resources
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo_do_Galo_Hugo_e_Miguel.Resources.resources
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo do Galo Hugo e Miguel.vbproj.GenerateResource.cache
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo do Galo Hugo e Miguel.vbproj.CoreCompileInputs.cache
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo do Galo Hugo e Miguel.exe
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo do Galo Hugo e Miguel.xml
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo do Galo Hugo e Miguel.pdb
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo_do_Galo_Hugo_e_Miguel.Resource1.resources
+C:\Users\35192\source\repos\Jogo do Galo Hugo e Miguel\Jogo do Galo Hugo e Miguel\obj\Debug\Jogo do Galo Hugo e Miguel.vbprojAssemblyReference.cache
